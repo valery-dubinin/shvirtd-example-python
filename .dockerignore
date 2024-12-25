@@ -1,0 +1,14 @@
+# Директории
+haproxy
+nginx
+.git
+.cache
+# Расширения и файлы
+*.pdf
+*.md
+*.yaml
+*.sh
+.gitignore
+.env
+*LICENSE*
+Dockerfile.python
